@@ -1,0 +1,4 @@
+github.com/SpeedVan/go-common v0.0.0-20200507040703-8c1cbdb4807e h1:tOgUfwPffDkVcl4h1vEf9uN5yPjpfsLdgPyNxdgsBiY=
+github.com/SpeedVan/go-common v0.0.0-20200507040703-8c1cbdb4807e/go.mod h1:7QNBYbKndOK/1GUYoAjcZlyhF8c6eJY1GOxW9179MWM=
+github.com/gorilla/mux v1.7.3 h1:gnP5JzjVOuiZD07fKKToCAOjS0yOpj/qPETTXCCS6hw=
+github.com/gorilla/mux v1.7.3/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
